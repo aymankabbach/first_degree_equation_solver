@@ -10,7 +10,7 @@ float read_user_input_value(string variable)
 }
 bool check_speciale_case(float variable_a,float variable_b)
 {
-    return (variable_a==0 && variable_b==0 || variable_a==0);
+    return (variable_a==0);
 }
 float solve_equation(float variable_a,float variable_b)
 {
@@ -19,16 +19,13 @@ float solve_equation(float variable_a,float variable_b)
 }
 void print_special_case_result(float variable_a,float variable_b)
 {
-    if (variable_a==0)
+    if (variable_b==0)
     {
-        if (variable_b==0)
-        {
-            cout<< "all numbers are solutions to this equation"<<endl;
-        }
-        else
-        {
-            cout<<"this equation has no solution"<<endl;
-        }
+        cout<< "all numbers are solutions to this equation"<<endl;
+    }
+    else
+    {
+        cout<<"this equation has no solution"<<endl;
     }
 }
 void print_result(float variable_a,float variable_b)
