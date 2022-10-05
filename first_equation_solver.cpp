@@ -19,14 +19,7 @@ float solve_equation(float variable_a,float variable_b)
 }
 void print_special_case_result(float variable_a,float variable_b)
 {
-    if (variable_b==0)
-    {
-        cout<< "all numbers are solutions to this equation"<<endl;
-    }
-    else
-    {
-        cout<<"this equation has no solution"<<endl;
-    }
+    (variable_b==0)?cout<< "all numbers are solutions to this equation"<<endl:cout<<"this equation has no solution"<<endl;
 }
 void print_result(float variable_a,float variable_b)
 {
@@ -38,12 +31,5 @@ int main()
     float variable_a=read_user_input_value("a");
     float variable_b=read_user_input_value("b");
     bool special_case=check_speciale_case(variable_a,variable_b);
-    if (special_case)
-    {
-        print_special_case_result(variable_a,variable_b);
-    }
-    else
-    {
-        print_result(variable_a,variable_b);
-    }
+    (special_case) ? print_special_case_result(variable_a,variable_b):print_result(variable_a,variable_b);
 }
