@@ -1,11 +1,19 @@
 #include <iostream>
 #include <cmath>
+#include <limits>
 using namespace std;
 float read_user_input_value(string variable)
 {
     float float_number;
     cout << "enter the value of "<<variable<<endl;
     cin>>float_number;
+    while (cin.fail())
+    {
+        cin.clear();
+        cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+        cout<< "Invalid Input , try something else "<<endl;
+        cin>>float_number;
+    }
     return float_number;
 }
 bool check_speciale_case(float &variable_a)
