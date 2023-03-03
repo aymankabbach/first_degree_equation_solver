@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "first_degree_equation_solver (C#)/1.0.0": {
+        "runtime": {
+          "first_degree_equation_solver (C#).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "first_degree_equation_solver (C#)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

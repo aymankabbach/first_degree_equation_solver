@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\bin\Debug\net7.0\first_degree_equation_solver (C#).exe
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\bin\Debug\net7.0\first_degree_equation_solver (C#).deps.json
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\bin\Debug\net7.0\first_degree_equation_solver (C#).runtimeconfig.json
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\bin\Debug\net7.0\first_degree_equation_solver (C#).dll
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\bin\Debug\net7.0\first_degree_equation_solver (C#).pdb
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).AssemblyInfo.cs
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).dll
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\refint\first_degree_equation_solver (C#).dll
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).pdb
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\first_degree_equation_solver (C#).genruntimeconfig.cache
+C:\Users\User\Desktop\programmation\first_degree_equation_solver (C#)\obj\Debug\net7.0\ref\first_degree_equation_solver (C#).dll
